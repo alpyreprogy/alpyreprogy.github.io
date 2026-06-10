@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Support E85 Atlas
-permalink: /support/
 ---
 
 Pour toute question ou problème avec l'application **E85 Atlas** :

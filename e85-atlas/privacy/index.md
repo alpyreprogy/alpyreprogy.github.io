@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Politique de confidentialité
-permalink: /privacy/
 ---
 
 **Version 1.0 — en vigueur au : 10 juin 2026**

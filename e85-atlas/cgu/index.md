@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Conditions Générales d'Utilisation
-permalink: /cgu/
 ---
 
 **Version 1.0 — en vigueur au : 10 juin 2026**
