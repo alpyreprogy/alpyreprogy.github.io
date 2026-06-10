@@ -1,0 +1,10 @@
+title: E85 Atlas
+description: Application iOS pour localiser les stations E85 en France
+lang: fr
+theme: minima
+
+minima:
+  skin: auto
+
+exclude:
+  - README.md
